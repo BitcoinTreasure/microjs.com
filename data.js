@@ -3484,14 +3484,7 @@ module.exports = [
     url: "http://scaleapp.org/",
     source: "https://raw.githubusercontent.com/flosse/scaleApp/master/dist/scaleApp.js"
   },
-  {
-    name: "Choona.js",
-    github: "nsisodiya/choona.js",
-    tags: ["pubsub", "modular", "scalable", "sandbox", "spa", "architecture"],
-    description: "Choona.js is a tiny JavaScript framework for scalable , modular architecture for one-page-applications",
-    url: "https://github.com/nsisodiya/choona.js",
-    source: "https://raw.githubusercontent.com/nsisodiya/choona.js/master/dist/choona.js"
-  },
+  
   {
     name: "Impetus.js",
     github: "chrisbateman/impetus",
